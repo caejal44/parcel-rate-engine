@@ -1,0 +1,13 @@
+﻿carrier_service_code,carrier_name,carrier_code,service_code,service_name,service_group,dim_factor,delivery_type,ah_weight_threshold,ah_length_threshold,ah_width_threshold,ah_length_plus_girth_threshold,large_package_length_threshold,large_package_length_plus_girth_threshold,large_package_weight,max_weight,max_length,max_length_plus_girth,transport_mode
+0101,PartnerLine Logistics,01,01,Ground,GROUND,138,BOTH,60,60,48,105,96,130,110,150,108,165,ROAD
+0102,PartnerLine Logistics,01,02,Three Day Road,3-DAY,138,BOTH,60,60,48,105,96,130,110,150,108,165,ROAD
+0103,PartnerLine Logistics,01,03,2- Day Air,2-DAY,145,BOTH,60,60,48,105,96,130,110,150,108,165,AIR
+0104,PartnerLine Logistics,01,04,2- Day Urgent,2-DAY AM,145,BOTH,60,60,48,105,96,130,110,150,108,165,AIR
+0105,PartnerLine Logistics,01,05,1-Day Air,1-DAY,145,BOTH,60,60,48,105,96,130,110,150,108,165,AIR
+0106,PartnerLine Logistics,01,06,1-Day Air Urgent,1-DAY AM,145,BOTH,60,60,48,105,96,130,110,150,108,165,AIR
+0201,ConTracks,02,01,Ground,GROUND,138,COMMERCIAL,55,60,48,105,96,130,100,150,108,165,ROAD
+0202,ConTracks,02,02,Air Saver,3-DAY,138,BOTH,55,60,48,105,96,130,100,150,108,165,AIR
+0203,ConTracks,02,03,Two Day Air,2-DAY,145,BOTH,55,60,48,105,96,130,100,150,108,165,AIR
+0205,ConTracks,02,05,Air Standard,1-DAY,145,BOTH,55,60,48,105,96,130,100,150,108,165,AIR
+0206,ConTracks,02,06,Air Express,1-DAY AM,145,BOTH,55,60,48,105,96,130,100,150,108,165,AIR
+0207,ConTracks,02,07,Ground Residential,GROUND,138,RESIDENTIAL,55,60,48,105,96,130,100,150,108,165,ROAD

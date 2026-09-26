@@ -1,0 +1,166 @@
+carrier_service_code,charge_code,net_charge,fuel_applied,charge_description
+0101,ADW,50.25,FALSE,Additional Handling - Weight
+0101,AHD,40.25,FALSE,Additional Handling - Dimensions
+0101,AHP,35.25,FALSE,Additional Handling - Packaging
+0101,ASIG,7.12,FALSE,Adult Signature Required
+0101,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0101,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0101,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0101,INS,3.85,FALSE,Declared Value
+0101,LPS,239.5,FALSE,Large Package Surcharge
+0101,MAX,1635,FALSE,Over Maximum Size
+0101,REM,14.24,TRUE,Remote Area Fee
+0101,RES,4.69,TRUE,Residential Surcharge
+0101,SAT,13.18,TRUE,Saturday Delivery
+0101,SIG,5.32,FALSE,Signature Required
+0102,ADW,50.25,FALSE,Additional Handling - Weight
+0102,AHD,40.25,FALSE,Additional Handling - Dimensions
+0102,AHP,35.25,FALSE,Additional Handling - Packaging
+0102,ASIG,7.12,FALSE,Adult Signature Required
+0102,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0102,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0102,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0102,INS,3.85,FALSE,Declared Value
+0102,LPS,239.5,FALSE,Large Package Surcharge
+0102,MAX,1635,FALSE,Over Maximum Size
+0102,REM,14.24,TRUE,Remote Area Fee
+0102,RES,4.69,TRUE,Residential Surcharge
+0102,SAT,13.18,TRUE,Saturday Delivery
+0102,SIG,5.32,FALSE,Signature Required
+0103,ADW,55.25,FALSE,Additional Handling - Weight
+0103,AHD,45.25,FALSE,Additional Handling - Dimensions
+0103,AHP,40.25,FALSE,Additional Handling - Packaging
+0103,ASIG,7.12,FALSE,Adult Signature Required
+0103,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0103,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0103,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0103,INS,3.85,FALSE,Declared Value
+0103,LPS,243.5,FALSE,Large Package Surcharge
+0103,MAX,1695,FALSE,Over Maximum Size
+0103,REM,14.24,TRUE,Remote Area Fee
+0103,RES,5.69,TRUE,Residential Surcharge
+0103,SAT,13.18,TRUE,Saturday Delivery
+0103,SIG,5.32,FALSE,Signature Required
+0104,ADW,55.25,FALSE,Additional Handling - Weight
+0104,AHD,45.25,FALSE,Additional Handling - Dimensions
+0104,AHP,40.25,FALSE,Additional Handling - Packaging
+0104,ASIG,7.12,FALSE,Adult Signature Required
+0104,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0104,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0104,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0104,INS,3.85,FALSE,Declared Value
+0104,LPS,243.5,FALSE,Large Package Surcharge
+0104,MAX,1695,FALSE,Over Maximum Size
+0104,REM,14.24,TRUE,Remote Area Fee
+0104,RES,5.69,TRUE,Residential Surcharge
+0104,SAT,13.18,TRUE,Saturday Delivery
+0104,SIG,5.32,FALSE,Signature Required
+0105,ADW,55.25,FALSE,Additional Handling - Weight
+0105,AHD,45.25,FALSE,Additional Handling - Dimensions
+0105,AHP,40.25,FALSE,Additional Handling - Packaging
+0105,ASIG,7.12,FALSE,Adult Signature Required
+0105,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0105,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0105,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0105,INS,3.85,FALSE,Declared Value
+0105,LPS,243.5,FALSE,Large Package Surcharge
+0105,MAX,1695,FALSE,Over Maximum Size
+0105,REM,14.24,TRUE,Remote Area Fee
+0105,RES,5.69,TRUE,Residential Surcharge
+0105,SAT,13.18,TRUE,Saturday Delivery
+0105,SIG,5.32,FALSE,Signature Required
+0106,ADW,55.25,FALSE,Additional Handling - Weight
+0106,AHD,45.25,FALSE,Additional Handling - Dimensions
+0106,AHP,40.25,FALSE,Additional Handling - Packaging
+0106,ASIG,7.12,FALSE,Adult Signature Required
+0106,DASC,4.46,TRUE,Delivery Area Surcharge - Commercial
+0106,DASR,5.4,TRUE,Delivery Area Surcharge - Residential
+0106,EDAS,6.5,TRUE,Extended Delivery Area Surcharge
+0106,INS,3.85,FALSE,Declared Value
+0106,LPS,243.5,FALSE,Large Package Surcharge
+0106,MAX,1695,FALSE,Over Maximum Size
+0106,REM,14.24,TRUE,Remote Area Fee
+0106,RES,5.69,TRUE,Residential Surcharge
+0106,SAT,13.18,TRUE,Saturday Delivery
+0106,SIG,5.32,FALSE,Signature Required
+0201,ADW,48.25,FALSE,Additional Handling - Weight
+0201,AHD,37.25,FALSE,Additional Handling - Dimensions
+0201,AHP,30.25,FALSE,Additional Handling - Packaging
+0201,ASIG,7.88,FALSE,Adult Signature Required
+0201,DASC,4.12,TRUE,Delivery Area Surcharge - Commercial
+0201,EDAS,6.68,TRUE,Extended Delivery Area Surcharge
+0201,INS,3.25,FALSE,Declared Value
+0201,LPS,245.5,FALSE,Large Package Surcharge
+0201,MAX,1735,FALSE,Over Maximum Size
+0201,REM,13.69,TRUE,Remote Area Fee
+0201,SAT,10.89,TRUE,Saturday Delivery
+0201,SIG,6.04,FALSE,Signature Required
+0202,ADW,49.25,FALSE,Additional Handling - Weight
+0202,AHD,39.25,FALSE,Additional Handling - Dimensions
+0202,AHP,34.25,FALSE,Additional Handling - Packaging
+0202,ASIG,7.88,FALSE,Adult Signature Required
+0202,DASC,4.12,TRUE,Delivery Area Surcharge - Commercial
+0202,DASR,5.06,TRUE,Delivery Area Surcharge - Residential
+0202,EDAS,6.84,TRUE,Extended Delivery Area Surcharge
+0202,INS,3.25,FALSE,Declared Value
+0202,LPS,245.5,FALSE,Large Package Surcharge
+0202,MAX,1735,FALSE,Over Maximum Size
+0202,REM,13.69,TRUE,Remote Area Fee
+0202,RES,6.94,TRUE,Residential Surcharge
+0202,SAT,11.54,TRUE,Saturday Delivery
+0202,SIG,6.04,FALSE,Signature Required
+0203,ADW,49.25,FALSE,Additional Handling - Weight
+0203,AHD,39.25,FALSE,Additional Handling - Dimensions
+0203,AHP,34.25,FALSE,Additional Handling - Packaging
+0203,ASIG,7.88,FALSE,Adult Signature Required
+0203,DASC,4.12,TRUE,Delivery Area Surcharge - Commercial
+0203,DASR,5.06,TRUE,Delivery Area Surcharge - Residential
+0203,EDAS,6.84,TRUE,Extended Delivery Area Surcharge
+0203,INS,3.25,FALSE,Declared Value
+0203,LPS,245.5,FALSE,Large Package Surcharge
+0203,MAX,1735,FALSE,Over Maximum Size
+0203,REM,13.69,TRUE,Remote Area Fee
+0203,RES,6.94,TRUE,Residential Surcharge
+0203,SAT,11.54,TRUE,Saturday Delivery
+0203,SIG,6.04,FALSE,Signature Required
+0205,ADW,49.25,FALSE,Additional Handling - Weight
+0205,AHD,39.25,FALSE,Additional Handling - Dimensions
+0205,AHP,34.25,FALSE,Additional Handling - Packaging
+0205,ASIG,7.88,FALSE,Adult Signature Required
+0205,DASC,4.12,TRUE,Delivery Area Surcharge - Commercial
+0205,DASR,5.06,TRUE,Delivery Area Surcharge - Residential
+0205,EDAS,6.84,TRUE,Extended Delivery Area Surcharge
+0205,INS,3.25,FALSE,Declared Value
+0205,LPS,245.5,FALSE,Large Package Surcharge
+0205,MAX,1735,FALSE,Over Maximum Size
+0205,REM,13.69,TRUE,Remote Area Fee
+0205,RES,6.94,TRUE,Residential Surcharge
+0205,SAT,11.54,TRUE,Saturday Delivery
+0205,SIG,6.04,FALSE,Signature Required
+0206,ADW,49.25,FALSE,Additional Handling - Weight
+0206,AHD,39.25,FALSE,Additional Handling - Dimensions
+0206,AHP,34.25,FALSE,Additional Handling - Packaging
+0206,ASIG,7.88,FALSE,Adult Signature Required
+0206,DASC,4.12,TRUE,Delivery Area Surcharge - Commercial
+0206,DASR,5.06,TRUE,Delivery Area Surcharge - Residential
+0206,EDAS,6.84,TRUE,Extended Delivery Area Surcharge
+0206,INS,3.25,FALSE,Declared Value
+0206,LPS,245.5,FALSE,Large Package Surcharge
+0206,MAX,1735,FALSE,Over Maximum Size
+0206,REM,13.69,TRUE,Remote Area Fee
+0206,RES,6.94,TRUE,Residential Surcharge
+0206,SAT,11.54,TRUE,Saturday Delivery
+0206,SIG,6.04,FALSE,Signature Required
+0207,ADW,48.25,FALSE,Additional Handling - Weight
+0207,AHD,37.25,FALSE,Additional Handling - Dimensions
+0207,AHP,30.25,FALSE,Additional Handling - Packaging
+0207,ASIG,7.88,FALSE,Adult Signature Required
+0207,DASR,5.06,TRUE,Delivery Area Surcharge - Residential
+0207,EDAS,6.68,TRUE,Extended Delivery Area Surcharge
+0207,INS,3.25,FALSE,Declared Value
+0207,LPS,245.5,FALSE,Large Package Surcharge
+0207,MAX,1735,FALSE,Over Maximum Size
+0207,REM,13.69,TRUE,Remote Area Fee
+0207,RES,6.19,TRUE,Residential Surcharge
+0207,SAT,10.89,TRUE,Saturday Delivery
+0207,SIG,6.04,FALSE,Signature Required
