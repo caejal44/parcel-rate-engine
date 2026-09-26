@@ -79,7 +79,7 @@ rate_shipment = st.sidebar.button("Rate Shipment")
 #--------------------------------
 valid_destination = len(destination) == 5 and destination.isdigit()
 valid_dates = delivery > ship
-valid_ship_date = ship >= now
+valid_ship_date = ship >= datetime.datetime.now()
 
 shipment_id = None
 billable_response_data = None
