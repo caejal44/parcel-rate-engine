@@ -39,11 +39,11 @@ origin = st.sidebar.selectbox("Origin ZIP", display_options)
 origin_zip = origin.split("  |  ")[0]
 destination = st.sidebar.text_input("Destination ZIP", max_chars=5, placeholder="12345")
 
-now = datetime.datetime.now()
-tomorrow = now + datetime.timedelta(days=1)
+default_ship_time = datetime.datetime.now() + datetime.timedelta(minutes=15)
+tomorrow = default_ship_time + datetime.timedelta(days=1)
 
 default_delivery = tomorrow.replace(hour=20, minute=0, second=0, microsecond=0)
-ship = st.sidebar.datetime_input("Ship date/time", now, format="MM/DD/YYYY")
+ship = st.sidebar.datetime_input("Ship date/time", default_ship_time, format="MM/DD/YYYY")
 delivery = st.sidebar.datetime_input("Desired delivery date/time",
                                      default_delivery,
                                      format="MM/DD/YYYY")
